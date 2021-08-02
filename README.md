@@ -21,7 +21,7 @@ Este  archivo contiene  la programacion  en c++ que me va a permitir calcular el
   
  ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/ami%20t%C3%ADtulo.jpg)
  
-2.Una vez dandole clic  usted va ha copiar toda la codificacion  que aparezca en el Github.
+2.Una vez dandole clic  usted va ha copiar toda la codificacion  que aparezca.
 ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/github%20copia.jpg)
 3.Luego de haber copiado todo el codigo usted va ha abrir el Dev c++ o cualquier otro compilador que le permita codificar 
 ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/AcMa1.jpg)
