@@ -11,7 +11,7 @@
  
  Este archivo contiene  la imagen donde se realizo el diagrama de flujo que nos va ha mostar la secuencia y  proceso  de como se realizo  del  calculo del  iva, subtotal  y descuento de cada  articulo.
 
-*Descripcion del archivo*
+**Descripcion del archivo**
 
 2.Articulos.cpp
 
