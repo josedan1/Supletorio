@@ -22,14 +22,15 @@ Este  archivo contiene  la programacion  en c++ que me va a permitir calcular el
  ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/ami%20t%C3%ADtulo.jpg)
  
 2.Una vez dandole clic  usted va ha copiar toda la codificacion  que aparezca.
+
 ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/github%20copia.jpg)
+
 3.Luego de haber copiado todo el codigo usted va ha abrir el Dev c++ o cualquier otro compilador que le permita codificar 
 ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/AcMa1.jpg)
 
 4.Una vez dentro del Dev c++ va ha precionar las teclas crtl +n  para que le aparezca una nueva pestaña, va ha pegar el codigo que copio del github.
 ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/Speed.jpg)
 ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/DV%20c%2B%2Bt%C3%ADtulo.jpg)
-
 5.Una vez  pegado el codigo usted va darle en guardar y le colocara un     nombre a su archivo,es recomendable guardarlo con este nombre ("articulo.cpp")
 ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/IsA1.jpg)
 
@@ -42,7 +43,7 @@ Para compilar el programa, el usuario debe guardar el programa y luego presionar
 
 ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/EjecutableA.jpg)
 
-2Una vez que aparece el archivo ejecutable, el usuario debe ingresar el producto y su precio.
+2.Una vez que aparece el archivo ejecutable, el usuario debe ingresar el producto y su precio.
 ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/monsterA.jpg)
 
 3.Luego de ingresar todos los articulos , presione Enter, se mostrarán los productos y sus precios y ha demas  le mostrara el  subtotal  el Iva y el descuento y total a pagar.
