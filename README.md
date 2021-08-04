@@ -21,7 +21,7 @@ Este  archivo contiene  la programacion  en c++ que me va a permitir calcular el
   
  ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/ami%20t%C3%ADtulo.jpg)
  
-2.Una vez dandole clic  usted va ha copiar toda la codificacion  que aparezca.
+2. necesecitamos abrir nuestro repositorio de "github" una vez dandole clic  usted va ha copiar toda la codificacion  que aparezca.
 
 ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/github%20copia.jpg)
 
