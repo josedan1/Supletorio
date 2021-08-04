@@ -17,7 +17,7 @@
 
 Este  archivo contiene  la programacion  en c++ que me va a permitir calcular el total a pagar por la venta de 10 productos; con su IVA 12% y un descuento del 10%  y finalmente se muestra  detallado el total apagar  .
 ###   Instalacion
-1.Ingresa  al segundo  archivo que es (articulos.cpp ) se  le da doble  clic.
+1.Primero necesitamos abrir el repositorio "github" ubicado en una carpeta llamada "articulos.cpp" y copiar todo el código.
   
  ![](https://raw.githubusercontent.com/josedan1/imagenes-/main/ami%20t%C3%ADtulo.jpg)
  
